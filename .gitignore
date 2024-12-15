@@ -1,0 +1,4 @@
+# Ignore all HTML pages
+pages
+node_modules/
+
